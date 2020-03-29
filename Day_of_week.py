@@ -10,5 +10,5 @@ def findDay(date):
 
 
 # Driver program 
-date = '03 02 2019' #this is the input date
+date = '19 03 2019' #this is the input date
 print(findDay(date))  # here we print the final output after calling the fucntion findday
